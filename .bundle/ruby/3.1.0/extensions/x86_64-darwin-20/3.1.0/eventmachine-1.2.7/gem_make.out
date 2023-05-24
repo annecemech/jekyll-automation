@@ -1,0 +1,17 @@
+current directory: /Users/anne-ce/code/annecemech/jekyll-automation/.bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/anne-ce/.rbenv/versions/3.1.2/bin/ruby -I /Users/anne-ce/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20230524-11649-jlign3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/anne-ce/code/annecemech/jekyll-automation/.bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/anne-ce/code/annecemech/jekyll-automation/.bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/anne-ce/code/annecemech/jekyll-automation/.bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230524-11649-xzag78
